@@ -1,11 +1,8 @@
-# [Prof. Nikolai Slavov](https://coe.northeastern.edu/people/slavov-nikolai/)
+## [Prof. Nikolai Slavov](https://coe.northeastern.edu/people/slavov-nikolai/)
 
 <table  cellspacing="0" border="0"  cellpadding="0" >
 <tr border="0">
     <td>
-      <div  id="NikolaiSlavov" style="font-size:20px; font-weight: 400; letter-spacing: 1.5px;" border="0" >
-			<span itemprop="name">Nikolai Slavov</span>
-	  </div>
 		<br>
 		<div style="line-height: 160%; padding: 1 1 1 20;" >
 		  <div style="font-family:   'Open Sans',   sans-serif;   font-size:13px; font-weight: 400; letter-spacing: 1.2px;"> <!-- Courier, New,     'Josefin Slab', serif;       -->
@@ -30,6 +27,26 @@
 
 
 ------------
+
+
+## Research
+[My laboratory](https://slavovlab.net/) aims to understand the rules governing emergent systems-level behavior and to use these rules to rationally engineer biological systems. We make quantitative measurements, often at the single-cell level, to test different conceptual frameworks and discriminate among different classes of models. 
+Areas of focus include:
+*  [Translational control of protein synthesis:](https://slavovlab.net/research.htm#Ribosome-Specialization) Mechanisms by which ribosomal modifications regulate protein synthesis 
+* [Single-cell protein analysis:](https://scp.slavovlab.net) We develop and apply mass-spectrometry methods that allow analyzing thousands of proteins in single cells. These data have enabled characterizing post-transcriptional regulation in single cells at systems level, as well as discovering macrophage polarization in the absence of polarizing cytokines.
+
+
+## Publications
+* [Selected research articles](https://slavovlab.net/publications.htm)
+* [Publication on PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Slavov+Nikolai%5BAuthor%5D&format=abstract&sort=date)
+* [Publication on Google Scholar](https://scholar.google.com/citations?user=GJTMsxIAAAAJ&hl=en)
+
+
+## Background 
+I received a BS from MIT in 2004 and then pursued doctoral research in the Botstein laboratory at Princeton University, aiming to understand how cells coordinate their growth, gene expression, and metabolism. As a postdoc in the van Oudenaarden laboratory at MIT, I characterized trade-offs of aerobic glycolysis (also known as Warburg effect) and obtained direct evidence for differential stoichiometry among core ribosomal proteins, suggesting that specialized ribosomes regulate protein synthesis.
+
+
+
 
 
 <!--
