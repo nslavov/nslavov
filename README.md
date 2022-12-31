@@ -1,5 +1,3 @@
-## [Prof. Nikolai Slavov](https://coe.northeastern.edu/people/slavov-nikolai/)
-
 <table  cellspacing="0" border="0"  cellpadding="0" >
 <tr border="0">
     <td>
