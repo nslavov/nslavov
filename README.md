@@ -38,6 +38,7 @@ Areas of focus include:
 * [Selected research articles](https://slavovlab.net/publications.htm)
 * [Publication on PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Slavov+Nikolai%5BAuthor%5D&format=abstract&sort=date)
 * [Publication on Google Scholar](https://scholar.google.com/citations?user=GJTMsxIAAAAJ&hl=en)
+* [Personal blog](https://nikolai.slavovlab.net)
 
 
 ## Background 
