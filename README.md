@@ -11,7 +11,7 @@
 		<div style="letter-spacing: 1px;">
 		<a href="https://cos.northeastern.edu/people/nikolai-slavov/" target="_blank"  itemprop="url" alt="professor Slavov">Faculty Profile</a> &nbsp; | &nbsp;			
 		<a href="http://orcid.org/0000-0003-2035-1820" target="_blank">ORCID</a> &nbsp; | &nbsp;
-    	<a href="https://alleninstitute.org/what-we-do/frontiers-group/distinguished-investigators/projects/tracking-proteome-dynamics-single-cells" target="_blank">Allen Distinguished Investigator</a> &nbsp; | &nbsp;
+    	<a href="https://www.parallelsq.org/" target="_blank">Allen Distinguished Investigator</a> &nbsp; | &nbsp;
 		<a href="https://scholar.harvard.edu/nslavov/biography" target="_blank">Bio</a>
 	   </div>
      </div>
