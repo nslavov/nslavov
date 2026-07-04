@@ -12,7 +12,7 @@
 		<a href="https://cos.northeastern.edu/people/nikolai-slavov/" target="_blank"  itemprop="url" alt="professor Slavov">Faculty Profile</a> &nbsp; | &nbsp;			
 		<a href="http://orcid.org/0000-0003-2035-1820" target="_blank">ORCID</a> &nbsp; | &nbsp;
     	<a href="https://alleninstitute.org/person/nikolai-slavov/" target="_blank">Allen Distinguished Investigator</a> &nbsp; | &nbsp;
-		<a href="https://nikolai.slavovlab.net/" target="_blank">Bio</a>
+		<a href="https://nikolai.slavovlab.net/" target="_blank">Blog</a>
 	   </div>
      </div>
     </td>
