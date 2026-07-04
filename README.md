@@ -4,7 +4,7 @@
 		<br>
 		<div style="line-height: 160%; padding: 1 1 1 20;" >
 		  <div style="font-family:   'Open Sans',   sans-serif;   font-size:13px; font-weight: 400; letter-spacing: 1.2px;"> <!-- Courier, New,     'Josefin Slab', serif;       -->
-			2010 &nbsp; Ph.D.  &nbsp;  Botstein Lab, Princeton University<br>
+			2010 &nbsp; Ph.D.  &nbsp;  Princeton University (Botstein Lab)<br>
 			2004 &nbsp; B.S.   &nbsp; &nbsp; Massachusetts Institute of Technology <br>
 		  </div>
 		<br>
