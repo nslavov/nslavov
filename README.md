@@ -33,7 +33,7 @@ Areas of focus include:
 *  [Translational control of protein synthesis:](https://slavovlab.net/research.htm#Proteostasis) Mechanisms by which ribosomal modifications regulate protein synthesis 
 * [Single-cell protein analysis:](https://scp.slavovlab.net) We develop and apply mass-spectrometry methods that allow analyzing thousands of proteins in single cells. These data have enabled characterizing post-transcriptional regulation in single cells at systems level, as well as discovering macrophage polarization in the absence of polarizing cytokines.
 
-These technologies provided a foundation for establishing [PTI](https://www.parallelsq.org). 
+These technologies provided a foundation for establishing Parallel Squared Technology Institute (<a href="https://www.parallelsq.org/">PTI</a>). 
 
 ## Publications
 * [Selected research articles](https://slavovlab.net/publications.htm)
